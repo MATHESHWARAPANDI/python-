@@ -1,4 +1,4 @@
-class cal():
+class cal(): # PEP 8 standard
     def __init__(self,a,b):
         self.a=a
         self.b=b
