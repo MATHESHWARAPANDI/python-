@@ -1,0 +1,4 @@
+Always have README.md file and gitignore file in your repo. Learn about that.
+Always follow PEP 8 standard for your python code.
+Create many files as possible. Don't have single file for your project. Class in one file. main functionality in one file. etc
+Always format your python code as per the PEP 8 standard
